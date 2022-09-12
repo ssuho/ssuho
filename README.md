@@ -11,6 +11,6 @@
 - 🚆 한국철도시설공단의 모의 CSV 서비스 설계 프로젝트에서 우승을 차지했어요.
 - 💻 한국 HCI(Human Computer Interaction)협회 주관 UX 교육에서 교육생들이 뽑은 최고의 팀으로 선정됐어요.
 
-
-Keyword :
-#FrontEnd, #UX, #Business, #DIGITAL-AD, #MARKETING, #BRANDING
+</br>
+Keywords :
+```#FrontEnd```, ```#UX```, ```#Business```, ```#DIGITAL-AD```, ```#MARKETING```, ```#BRANDING```
