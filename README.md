@@ -1,16 +1,14 @@
-### Hi there 👋
+### 반갑습니다 👋
 
-<!--
-**ssuho/ssuho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Keyword :
+#FrontEnd, #UX, #Business, #DIGITAL-AD, #MARKETING, #BRANDING
 
-Here are some ideas to get you started:
+저는 기술이 세상을 바꾼다고 생각해요.
+'WOW' 소리가 날 수 있는 서비스를 세상에 선보이기 위해 공부중입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+재밌는 사실들 : 
+- 🛩️ 대한민국 공군에서 100명이 넘는 개발자들과 함께 생활했어요.
+- ✨ 대기업 패션, 백화점 및 각종 공공기관 디지털 광고 대행 업무를 하며 웹 접근성과 친해졌어요.
+- 🥖 서울에서 가장 오래된 빵집, 태극당의 마케팅 프로젝트에서 검색어 분석과 자료 수집을 통해 컨셉 및 전략을 도출했어요.
+- 🚆 한국철도시설공단의 모의 CSV 서비스 설계 프로젝트에서 우승을 차지했어요.
+- 💻 한국 HCI(Human Computer Interaction)협회 주관 UX 교육에서 교육생들이 뽑은 최고의 팀으로 선정됐어요.
