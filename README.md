@@ -11,7 +11,7 @@
 **2018**&nbsp;&nbsp;ST UNITAS Connects Scholé 마케팅 및 브랜딩 교육   
 
 ## 💡Project
-**2023**&nbsp;&nbsp;Apple Developer Academy (꿋꿋 / Pressor / 날씨어떵? / 온봄)  
+**2023**&nbsp;&nbsp;Apple Developer Academy (꿋꿋 / Pressor / 날씨삼춘 / 온봄)  
 **2022**&nbsp;&nbsp;🏫 내 강의실은 어디에?   
 **2022**&nbsp;&nbsp;Thanks Market UX 리서치 및 마케팅 프로젝트   
 **2022**&nbsp;&nbsp;올리사랑 UX 리서치 및 마케팅   
